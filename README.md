@@ -1,3 +1,10 @@
+This is a simple chess game created so I could get practice with React.
+
+Chess piece images taken from Wikimedia Commons.
+
+# React pre-generated README contained below
+-------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
