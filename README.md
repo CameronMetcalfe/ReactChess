@@ -1,5 +1,6 @@
 This is a simple chess game created so I could get practice with React.
-Chess piece images taken from Wikimedia Commons
+
+Chess piece images taken from Wikimedia Commons.
 
 # React pre-generated README contained below
 -------------------------------------------------
